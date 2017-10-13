@@ -1,0 +1,24 @@
+body {
+  width: 600px;
+  max-width: 90%;
+  margin: 30px auto;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+  background-color: #344098;
+  color: #FFFFFF;
+}
+
+.hacktoberfest-banner {
+  width: 100%;
+}
+
+h1 {
+  color: #fd6363;
+}
+
+h2, h3, h4, h5, h6 {
+  color: #fd966b;
+}
+
+a {
+  color: #FFFFFF;

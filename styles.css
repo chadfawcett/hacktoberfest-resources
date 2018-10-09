@@ -1,10 +1,10 @@
 body {
-  width: 600px;
+  width: 700px;
   max-width: 90%;
   margin: 30px auto;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   font-weight: 300;
-  background-color: #344098;
+  background-color: #582D41;
   color: #FFFFFF;
 }
 
@@ -13,12 +13,23 @@ body {
 }
 
 h1 {
-  color: #fd6363;
+  color: #01FFFF;
 }
 
-h2, h3, h4, h5, h6 {
-  color: #fd966b;
+h2, h3 {
+  color: #FF9A56;
+}
+
+h4, h5, h6 {
+  color: #2B81D9;
 }
 
 a {
   color: #FFFFFF;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

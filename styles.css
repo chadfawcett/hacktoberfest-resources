@@ -33,3 +33,20 @@ a {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+button#tickets {
+  background-color: #21ffff;
+    border: 0;
+    border-radius: 4px;
+    color: #411e2f;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: "Sailec-Bold", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 1;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    display: block;
+    margin: 100px auto 0 auto;
+    cursor: pointer;
+    outline: none;
+}
